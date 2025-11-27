@@ -1,0 +1,4 @@
+[1]Agregar cuenta
+[2]Revisar cuentas
+[3]Borrar Cuenta
+[4]Salir
