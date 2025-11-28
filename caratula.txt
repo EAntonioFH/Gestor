@@ -1,0 +1,20 @@
+=====================================
+            CARÁTULA                 
+=====================================
+Grupo/Materia:    Grupo 10 - Fundamentos de Programacion
+Semestre:         2026-1
+-------------------------------------
+Alumnos:
+ 1) Carrillo Del Rio Leonardo           No.Cuenta: 323297318
+ 2) Castro Rodríguez Enrique            No.Cuenta: 323273204
+ 3) Cortes Tierrafria Alexandra         No.Cuenta: 323113072
+ 4) Cruz Cruz Emma Xadani               No.Cuenta: 323050351
+ 5) Frías Hernández Edmond Antonio      No.Cuenta: 323147880
+ 6) González Herrera Alejandro Alberto  No.Cuenta: 323188889
+ 7) Hernández Campos Héctor             No.Cuenta: 323069649
+ 8) Miranda Valdez Alan Hjazie          No.Cuenta: 323067360
+ 9) Olivar Torres Liliana               No.Cuenta: 323094203
+10) Riveroll Hernández Alexis Eduardo   No.Cuenta: 323068192
+11) Robles Cancino Arturo Andres        No.Cuenta: 323282626
+Fecha de entrega: 28/11/2025
+=====================================
